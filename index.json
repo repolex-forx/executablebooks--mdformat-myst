@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "mdformat-myst",
+  "versions": [
+    {
+      "commit": "888b07deb5714307df4dd104350d472f0bfb41aa",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-21T21:48:34.671807+00:00"
+    }
+  ]
+}
