@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-myst/commit/888b07deb5714307df4dd104350d472f0bfb41aa",
       "git:hexsha": "888b07deb5714307df4dd104350d472f0bfb41aa",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.0",
+      "repolex:parsedAt": "2026-10-21T21:48:34.671325+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-myst/commit/a3313d2e3ad42931743dc0412158dc730c0b6267",
